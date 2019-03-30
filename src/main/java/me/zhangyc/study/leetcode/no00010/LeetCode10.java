@@ -1,4 +1,4 @@
-package me.zhangyc.study.leetcode;
+package me.zhangyc.study.leetcode.no00010;
 
 class Solution {
     boolean isMatch(char s, char p2) {
